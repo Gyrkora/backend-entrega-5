@@ -6,9 +6,11 @@
 		<tr>
 			<td><%=producto.title%></td>
 			<td><%=producto.price%></td>
-			<td><%=producto.thumbnail%></td>
+			<img style="height: 2rem;" src=<%=producto.thumbnail%> alt="<%=producto.title%>">
 		</tr>
 		<%};%>
+
+        <br>
 
 		<a href="http://localhost:8080">
 			<button>ir a formulario</button>

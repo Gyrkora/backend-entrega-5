@@ -2,25 +2,25 @@
 	{
 		"title": "Gardenias",
 		"price": 30,
-		"thumbnail": "foto",
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/spring-2-1/30/Rose-256.png",
 		"id": 1
 	},
 	{
 		"title": "petunias",
 		"price": 70,
-		"thumbnail": "foto",
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/spring-2-1/30/Sprout-256.png",
 		"id": 2
 	},
 	{
 		"title": "flecheras",
 		"price": 30,
-		"thumbnail": "foto",
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/spring-2-1/30/Flower-512.png",
 		"id": 3
 	},
 	{
 		"title": "Rosas",
 		"price": 40,
-		"thumbnail": "foto agregada con post",
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/spring-2-1/30/Sunflower-512.png",
 		"id": 4
 	}
 ]
