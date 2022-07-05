@@ -1,0 +1,23 @@
+<h1>Vista de Productos</h1>{{#if getAll}}
+	<div id='products'>
+		{{#each getAll}}
+			<div class='product'>
+				{{title}}
+				{{price}}
+				
+		{{/each}}
+
+		<a href='http://localhost:8080'>
+
+	<button>
+		ir a formulario
+	</button>
+
+</a>
+		
+	</div>
+{{else}}
+	<div class='message'>
+		<h2>There are no products</h2>
+	</div>
+{{/if}}
